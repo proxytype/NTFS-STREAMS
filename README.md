@@ -6,7 +6,7 @@ It offers an intuitive interface for creating, reading, and deleting streams wit
 
 
 ## Dependencies:
-Microsoft.PowerShell.SDK (7.3.2)
+Microsoft.PowerShell.SDK (7.3.2)<br>
 System.Management.Automation(7.3.2)
 
 
