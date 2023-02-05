@@ -4,7 +4,6 @@
 //and https://owasp.org/www-community/attacks/Windows_alternate_data_stream
 
 using System.Management.Automation;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 const string ASTRIX = "*";
 
