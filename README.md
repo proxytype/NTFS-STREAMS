@@ -4,6 +4,13 @@ It offers an intuitive interface for creating, reading, and deleting streams wit
 
 ![alt text](https://raw.githubusercontent.com/proxytype/NTFS-STREAMS/main/ntfs-data-stream.PNG)
 
+
+## Dependencies:
+Microsoft.PowerShell.SDK (7.3.2)
+System.Management.Automation(7.3.2)
+
+
+
 **Powershell Commands:**<br>
 Get-Item<br> 
 Set-Content<br> 
