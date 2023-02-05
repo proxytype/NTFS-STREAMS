@@ -41,7 +41,7 @@ void helper()
     Console.WriteLine(@" NtfsAStream.exe <commands> <file> <*payload>                      ");
     Console.WriteLine();
     Console.WriteLine(@" Commands: ");
-    Console.WriteLine(@" Get-Item: Detected Alternative $DATA stream.");
+    Console.WriteLine(@" Get-Item: Detect Alternative $DATA stream.");
     Console.WriteLine(@" Set-Content: set content for alternative $DATA stream.");
     Console.WriteLine(@" Get-Content: get content from alternative $DATA stream.");
     Console.WriteLine(@" Remote-Item: remove stream from source.");
