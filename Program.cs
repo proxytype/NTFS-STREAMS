@@ -101,7 +101,8 @@ void writeMwSection(string file, string section, string data)
     ps.Invoke();
 }
 
-void removeItem(string file, string section) {
+void removeItem(string file, string section)
+{
 
     PowerShell ps = PowerShell.Create();
     ps.AddCommand(COMMAND_REMOVE_ITEM).AddParameter(PARAMETER_PATH, file).AddParameter(PARAMETER_STREAM, section);
