@@ -1,4 +1,4 @@
-﻿//proof of concept using NTFS stream feature for hidden porpuse, 
+﻿//proof of concept using NTFS stream feature for hidden purpose,
 //based on powershell sdk, system.managment.automation, .net 7.0
 //inspired from https://www.youtube.com/watch?v=BSFQAvDENTY
 //and https://owasp.org/www-community/attacks/Windows_alternate_data_stream
