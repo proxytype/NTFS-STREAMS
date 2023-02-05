@@ -4,7 +4,7 @@ It offers an intuitive interface for creating, reading, and deleting streams wit
 
 *Powershell Commands:*
 
-Get-Item
-Set-Content
-Get-Content
-Remove-Item
+Get-Item<br> 
+Set-Content<br> 
+Get-Content<br> 
+Remove-Item<br> 
