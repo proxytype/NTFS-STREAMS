@@ -41,15 +41,15 @@ void helper()
     Console.WriteLine();
     Console.WriteLine(@" Commands: ");
     Console.WriteLine(@" Get-Item: Detect Alternative $DATA stream.");
-    Console.WriteLine(@" Set-Content: set content for alternative $DATA stream.");
-    Console.WriteLine(@" Get-Content: get content from alternative $DATA stream.");
-    Console.WriteLine(@" Remote-Item: remove stream from source.");
+    Console.WriteLine(@" Set-Content: Set content for alternative $DATA stream.");
+    Console.WriteLine(@" Get-Content: Get content from alternative $DATA stream.");
+    Console.WriteLine(@" Remote-Item: Remove stream from source.");
     Console.WriteLine();
     Console.WriteLine(@" Examples: ");
     Console.WriteLine(@" NtfsAStream.exe Get-Item <file>");
     Console.WriteLine(@" NtfsAStream.exe Set-Content <file> <section> <string>");
     Console.WriteLine(@" NtfsAStream.exe Get-Content <file> <section>");
-    Console.WriteLine(@" NtfsaStream.exe Remove-Item <file> <section>");
+    Console.WriteLine(@" NtfsAStream.exe Remove-Item <file> <section>");
 }
 
 string readMwSection(string file, string section)
