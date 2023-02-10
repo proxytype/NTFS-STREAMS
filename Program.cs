@@ -158,6 +158,7 @@ try
             string section = args[2];
 
             string data = readMwSection(file, section);
+            Console.WriteLine(String.Format("{0}:{1}", section, data));
         }
         else if (args[0] == COMMAND_REMOVE_ITEM)
         {
@@ -180,6 +181,7 @@ try
                 string data = args[3];
 
                 writeMwSection(file, section, data);
+                Console.WriteLine(String.Format("Write {0} Complete", section));
             }
         }
         else
