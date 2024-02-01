@@ -1,6 +1,6 @@
 # NTFS-STREAMS
-A simple tool for detecting and managing NTFS alternate streams, built with the latest PowerShell SDK and .Net 7. <br> 
-It offers an intuitive interface for creating, reading, and deleting streams with ease.
+
+Introducing a straightforward tool for detecting and managing NTFS alternate streams, leveraging their capability to conceal files from users. Developed with the latest PowerShell SDK and .NET 7, this tool facilitates the seamless hiding and exporting of files as needed
 
 ![alt text](https://raw.githubusercontent.com/proxytype/NTFS-STREAMS/main/ntfs-data-stream-1.PNG)
 
